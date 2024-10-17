@@ -5,4 +5,5 @@ To spin up your gocd environment which is the cicd tool
 - docker-compose up -d
 To stop
 - docker-compose down
-
+To access your gocd after it spins up 
+http://localhost:8153
