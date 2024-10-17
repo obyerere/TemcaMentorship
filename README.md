@@ -7,3 +7,6 @@ To stop
 - docker-compose down
 To access your gocd after it spins up 
 http://localhost:8153
+You should see the GoCD dashboard. The default credentials are:
+Username: admin
+Password: badger
